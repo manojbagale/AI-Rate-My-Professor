@@ -1,3 +1,7 @@
+# Screenshots:
+![Screenshot (169)](https://github.com/user-attachments/assets/60b3b5c1-ff3d-4be4-a523-ad96a449a997)
+![Screenshot (170)](https://github.com/user-attachments/assets/118020f4-657e-4b6d-bb87-ad966b02775d)
+
 # Rate My Professor AI Assistant: A RAG-Powered Application
 
 In the era of AI-driven applications, Retrieval-Augmented Generation (RAG) has emerged as a powerful technique for enhancing large language models. The **Rate My Professor AI Assistant** project is an exemplary implementation of RAG, designed to provide context-aware responses about professors and courses. This tutorial demonstrates how to build a RAG-based application using modern technologies like Next.js, React, Pinecone, and the OpenAI API.
